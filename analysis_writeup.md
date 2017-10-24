@@ -18,7 +18,7 @@ After extracting the data download csv and analysis was performed in google shee
 
 * The moving average in the above line graph was calculated for every 10 years.
 * The moving average was calculated individually for the city and global data and then were combined together corresponding to their years.
-* After this, the data was selected from the new sheet and a line graph was inserted to observe and compare the change in temperature between the two
+* After this, the data was selected from the new sheet and a line graph was inserted to observe and compare the changes in temperature between the two groups.
 
 
 ## 3.) Observations:
